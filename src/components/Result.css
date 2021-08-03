@@ -1,0 +1,15 @@
+.result {
+  margin: 20px;
+}
+
+.city-country {
+  color: darkslategrey;
+  font-size: 12px;
+}
+
+.weather {
+  font-size: 30px;
+  font-weight: bold;
+  margin: 10px 0 15px;
+  line-height: .5;
+}

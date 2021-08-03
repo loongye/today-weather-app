@@ -1,0 +1,27 @@
+.history-item {
+  border-bottom: 1px solid grey;
+  padding: 8px 0;
+}
+
+.history-item * {
+  margin: 0 5px;
+  align-self: center;
+  justify-self: center;
+}
+
+.history-city-country {
+  flex-grow: 1;
+}
+
+.history-item button {
+  border: 0;
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+}
+
+.history-item button svg {
+  vertical-align: middle;
+  margin: auto;
+}
